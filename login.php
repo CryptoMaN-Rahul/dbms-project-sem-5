@@ -76,7 +76,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Login to 2nd Shop</h2>
+        <h2>Login to ThriftUtopiah2>
         <form action="login.php" method="post">
             <div class="input-container">
                 <input type="text" name="username" placeholder="Username" required>
