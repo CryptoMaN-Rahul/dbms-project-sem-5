@@ -68,7 +68,7 @@
 </head>
 <body>
     <div class="container">
-        <h2>Register - 2nd Shop</h2>
+        <h2>Register - ThriftUtopia</h2>
         <form action="register1.php" method="post">
             <div class="input-container">
                 <input type="text" name="username" placeholder="Username" required>
