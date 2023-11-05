@@ -10,6 +10,7 @@ dbms project semester 5
    - Open your web browser.
    - Type `http://localhost/phpmyadmin` in the address bar and press Enter.
    - Log in if prompted.
+   - in the left hand side ,  click on 'NEW' and create database 'dir1'
 
    **Note:** Make sure your XAMPP server is running.
 
