@@ -74,7 +74,7 @@
                 <input type="text" name="username" placeholder="Username" required>
             </div>
             <div class="input-container">
-                <input type="email" name "email" placeholder="Email" required>
+                <input type="email" name="email" placeholder="Email" required>
             </div>
             <div class="input-container">
                 <input type="password" name="password" placeholder="Password" required>
