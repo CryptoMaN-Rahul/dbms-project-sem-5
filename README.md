@@ -27,7 +27,7 @@ dbms project semester 5
    - Inside the XAMPP directory, locate the `htdocs` folder.
 
    - Create a new folder named `dbproj` inside the `htdocs` folder.
-   - create a new folder name-> 'uploads' inside the 'dbproj' folder.
+   - create a new folder name-> `uploads`  inside the 'dbproj' folder.
 
 
    - Save all your project files inside the `dbproj` folder.
