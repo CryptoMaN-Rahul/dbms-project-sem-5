@@ -35,4 +35,4 @@ dbms project semester 5
    Your project files should now be accessible at `http://localhost/dbproj/`.
 
 
-TO ACCESS TYPE - http://localhost/dbproj/Register1.php      -->  in your browser  , apache and phmyadmin should be running `XAMPP` 
+TO ACCESS TYPE - http://localhost/dbproj/Register1.php      -->  in your browser  , apache and phmyadmin should be running in `XAMPP` 
